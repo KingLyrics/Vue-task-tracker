@@ -2,9 +2,6 @@
     <header>
       <h1>{{title}}</h1>  
       <Button text="Add Task" color="green" >{{text}}</Button>
-      <Button text="Update Task" color="orange" >{{text}}</Button>
-      <Button text="Delete Task" color="red" >{{text}}</Button>
-
     </header>
 </template>
 
